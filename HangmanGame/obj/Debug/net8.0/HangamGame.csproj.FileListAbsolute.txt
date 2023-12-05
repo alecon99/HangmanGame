@@ -1,0 +1,14 @@
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/bin/Debug/net8.0/HangamGame
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/bin/Debug/net8.0/HangamGame.deps.json
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/bin/Debug/net8.0/HangamGame.runtimeconfig.json
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/bin/Debug/net8.0/HangamGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/bin/Debug/net8.0/HangamGame.pdb
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.AssemblyInfoInputs.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.AssemblyInfo.cs
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.csproj.CoreCompileInputs.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/refint/HangamGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.pdb
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/HangamGame.genruntimeconfig.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangamGame/obj/Debug/net8.0/ref/HangamGame.dll

@@ -1,0 +1,14 @@
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/bin/Debug/net8.0/HangmanGame
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/bin/Debug/net8.0/HangmanGame.deps.json
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/bin/Debug/net8.0/HangmanGame.runtimeconfig.json
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/bin/Debug/net8.0/HangmanGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/bin/Debug/net8.0/HangmanGame.pdb
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.AssemblyInfoInputs.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.AssemblyInfo.cs
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.csproj.CoreCompileInputs.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/refint/HangmanGame.dll
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.pdb
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/HangmanGame.genruntimeconfig.cache
+/Users/alessioconte/RiderProjects/HangamGame/HangmanGame/obj/Debug/net8.0/ref/HangmanGame.dll
